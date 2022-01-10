@@ -262,9 +262,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5640072"
-     inkscape:cx="672.58464"
-     inkscape:cy="404.89422"
+     inkscape:zoom="3.1905065"
+     inkscape:cx="251.65773"
+     inkscape:cy="24.868678"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5358,14 +5358,16 @@
          x="118.47524"
          y="81.323105"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.08196894"
-         id="tspan5040-8-0">( <tspan
+         id="tspan5040-8-0">(<tspan
    style="font-weight:bold"
    id="tspan4185">NOTE</tspan>: MAKE SURE </tspan><tspan
          sodipodi:role="line"
          x="117.95333"
          y="85.421555"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.08196894"
-         id="tspan4171">FAN HAS A FUSE* )</tspan></text>
+         id="tspan4171">FAN HAS A FUSE<tspan
+   style="font-weight:bold"
+   id="tspan5544">*</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.27875185px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08196894"
@@ -5378,6 +5380,8 @@
          x="26.91258"
          y="289.24225"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.27875185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.08196894"
-         id="tspan25275-7-0-7-3">* Most 20&quot; box fans -- including all those sold in CA after 2012 -- are sold with a (built-in) fuse.</tspan></text>
+         id="tspan25275-7-0-7-3"><tspan
+   style="font-weight:bold"
+   id="tspan5546">*</tspan> Most 20&quot; box fans -- including all those sold in CA after 2012 -- are sold with a (built-in) fuse.</tspan></text>
   </g>
 </svg>

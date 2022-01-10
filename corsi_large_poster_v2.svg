@@ -4221,13 +4221,15 @@
          id="tspan5040-8-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.08196894"
          y="81.323105"
-         x="118.47524">( <tspan
+         x="118.47524">(<tspan
    id="tspan4185"
    style="font-weight:bold">NOTE</tspan>: MAKE SURE </tspan><tspan
          id="tspan4171"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.08196894"
          y="85.421555"
-         x="117.95333">FAN HAS A FUSE* )</tspan></text>
+         x="117.95333">FAN HAS A FUSE<tspan
+   id="tspan5544"
+   style="font-weight:bold">*</tspan>)</tspan></text>
     <text
        id="text954-4-8-9-8-6-0-6-8-5-3-9-9"
        y="289.24225"
@@ -4237,6 +4239,8 @@
          id="tspan25275-7-0-7-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.27875185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.08196894"
          y="289.24225"
-         x="26.91258">* Most 20&quot; box fans -- including all those sold in CA after 2012 -- are sold with a (built-in) fuse.</tspan></text>
+         x="26.91258"><tspan
+   id="tspan5546"
+   style="font-weight:bold">*</tspan> Most 20&quot; box fans -- including all those sold in CA after 2012 -- are sold with a (built-in) fuse.</tspan></text>
   </g>
 </svg>
